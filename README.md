@@ -15,27 +15,27 @@
 
   <!-- GitHub -->
   <a href="https://github.com/ImGabrielAredes" target="_blank">
-    <img src="https://img.shields.io/badge/-GitHub-000000?style=for-the-badge&logo=github&logoColor=0B2B26"/>
+    <img src="https://img.shields.io/badge/-GitHub-000000?style=for-the-badge&logo=github&logoColor=8EB69B"/>
   </a>
 
   <!-- LinkedIn -->
   <a href="https://www.linkedin.com/in/gabrielaredes" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=0B2B26"/>
+    <img src="https://img.shields.io/badge/-LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=8EB69B"/>
   </a>
 
   <!-- Gmail -->
   <a href="mailto:gabrielaredes1@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/-Gmail-000000?style=for-the-badge&logo=gmail&logoColor=0B2B26"/>
+    <img src="https://img.shields.io/badge/-Gmail-000000?style=for-the-badge&logo=gmail&logoColor=8EB69B"/>
   </a>
 
   <!-- WhatsApp -->
   <a href="https://wa.me/5531981133139" target="_blank">
-    <img src="https://img.shields.io/badge/-WhatsApp-000000?style=for-the-badge&logo=whatsapp&logoColor=0B2B26"/>
+    <img src="https://img.shields.io/badge/-WhatsApp-000000?style=for-the-badge&logo=whatsapp&logoColor=8EB69B"/>
   </a>
 
   <!-- Instagram -->
   <a href="https://www.instagram.com/gabriels.aredes/" target="_blank">
-    <img src="https://img.shields.io/badge/-Instagram-000000?style=for-the-badge&logo=instagram&logoColor=0B2B26"/>
+    <img src="https://img.shields.io/badge/-Instagram-000000?style=for-the-badge&logo=instagram&logoColor=8EB69B"/>
   </a>
 
 </div>
