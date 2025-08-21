@@ -71,7 +71,7 @@
 <p> 
 - 𖣘' Na <a href="https://www.pucminas.br/" target="_blank">PUC Minas</a>, sou <code>estudante</code> no curso de Engenharia de Software. Sempre me interessei por tecnologia, e sempre procuro me <code>aprimorar</code>, buscando aprendizado contínuo, em concomitância com a prática, para sempre manter a absorção dos conteúdos;<br />
 - 𖣘' No tempo livre, sou aficionado na cultura nerd (quanto mais cultura melhor, amigos), principalmente quando o assunto se trata dos meus universos favoritos <code>Star Wars</code> e qualquer conteúdo relacionado a <code>The Last of Us;</code><br/>
-- 𖣘' Sou apaixonado por jogos, principalmente os de história. Já falei de <code>The Last of Us</code>? Pois é, o melhor jogo já criado, e não está aberto a debates. Além disso, <code>Red Dead Redemption 2</code> e <code>Alan Wake</code> tem um espaço guardado no meu coração. Joguem.</p>br>
+- 𖣘' Sou apaixonado por jogos, principalmente os de história. Já falei de <code>The Last of Us</code>? Pois é, o melhor jogo já criado, e não está aberto a debates. Além disso, <code>Red Dead Redemption 2</code> e <code>Alan Wake</code> tem um espaço guardado no meu coração. Joguem.</p><br>
 - 𖣘' O que falar de <code>Astronomia</code>? Sou apaixonado pelos cosmos, e com certeza é uma área que eu adoro me aprofundar, por puro hobby. Sempre gostei do tema e quantos mistérios o universo tem, em tantos bilhões de anos luz de distância. Inclusive, vale a pena falar que o melhor filme criado na história é astronômico. Sim, estou falando de <code>Interestelar</code><br />
 </p>
 </div>
