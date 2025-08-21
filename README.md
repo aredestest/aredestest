@@ -42,6 +42,8 @@
 
 <div align="justify">
   <i>
+    <br>
+    <br>
     <b>Seja muito bem-vindo</b> :wave:!  
     Me chamo <code>Gabriel Aredes</code>, tenho 18 anos e sou 
     <code>estudante</code> de Engenharia de Software (🖥️) na 
