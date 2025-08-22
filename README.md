@@ -73,6 +73,7 @@
   <!-- Spring -->
   <img src="https://img.shields.io/badge/-Spring-000000?style=for-the-badge&logo=spring&logoColor=0B2B26"/>
 <br>
+<br>
   <!-- HTML5 -->
   <img src="https://img.shields.io/badge/-HTML5-000000?style=for-the-badge&logo=html5&logoColor=DAF1DE"/>
 
@@ -87,6 +88,7 @@
 
   <!-- Node.js -->
   <img src="https://img.shields.io/badge/-Node.js-000000?style=for-the-badge&logo=node.js&logoColor=DAF1DE"/>
+<br>
 <br>
   <!-- AWS -->
   <img src="https://img.shields.io/badge/-AWS-000000?style=for-the-badge&logo=amazonaws&logoColor=0B2B26"/>
