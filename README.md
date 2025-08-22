@@ -56,6 +56,48 @@
 
 -----
 
+<h2>- ⌨︎' Linguagens e Ferramentas</h2>
+<br>
+
+<div align="left">
+
+  <!-- C -->
+  <img src="https://img.shields.io/badge/-C-000000?style=for-the-badge&logo=c&logoColor=DAF1DE"/>
+
+  <!-- C++ -->
+  <img src="https://img.shields.io/badge/-C++-000000?style=for-the-badge&logo=cplusplus&logoColor=0B2B26"/>
+
+  <!-- Java -->
+  <img src="https://img.shields.io/badge/-Java-000000?style=for-the-badge&logo=openjdk&logoColor=DAF1DE"/>
+
+  <!-- Spring -->
+  <img src="https://img.shields.io/badge/-Spring-000000?style=for-the-badge&logo=spring&logoColor=0B2B26"/>
+
+  <!-- HTML5 -->
+  <img src="https://img.shields.io/badge/-HTML5-000000?style=for-the-badge&logo=html5&logoColor=DAF1DE"/>
+
+  <!-- CSS3 -->
+  <img src="https://img.shields.io/badge/-CSS3-000000?style=for-the-badge&logo=css3&logoColor=0B2B26"/>
+
+  <!-- React -->
+  <img src="https://img.shields.io/badge/-React-000000?style=for-the-badge&logo=react&logoColor=DAF1DE"/>
+
+  <!-- JavaScript -->
+  <img src="https://img.shields.io/badge/-JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=0B2B26"/>
+
+  <!-- Node.js -->
+  <img src="https://img.shields.io/badge/-Node.js-000000?style=for-the-badge&logo=node.js&logoColor=DAF1DE"/>
+
+  <!-- AWS -->
+  <img src="https://img.shields.io/badge/-AWS-000000?style=for-the-badge&logo=amazonaws&logoColor=0B2B26"/>
+
+  <!-- SQL -->
+  <img src="https://img.shields.io/badge/-SQL-000000?style=for-the-badge&logo=mysql&logoColor=DAF1DE"/>
+
+</div>
+
+-----
+
 
 <div>
 
@@ -90,4 +132,6 @@
 
 -----
 
+<h2>- ⌨︎' Linguagens e Ferramentas</h2>
+<br>
 
