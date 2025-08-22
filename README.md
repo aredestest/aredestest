@@ -59,7 +59,7 @@
 <h2>- ⌨︎' Linguagens e Ferramentas</h2>
 <br>
 
-<div align="left">
+<div align="center">
 
   <!-- C -->
   <img src="https://img.shields.io/badge/-C-000000?style=for-the-badge&logo=c&logoColor=DAF1DE"/>
@@ -72,7 +72,7 @@
 
   <!-- Spring -->
   <img src="https://img.shields.io/badge/-Spring-000000?style=for-the-badge&logo=spring&logoColor=0B2B26"/>
-
+<br>
   <!-- HTML5 -->
   <img src="https://img.shields.io/badge/-HTML5-000000?style=for-the-badge&logo=html5&logoColor=DAF1DE"/>
 
@@ -87,7 +87,7 @@
 
   <!-- Node.js -->
   <img src="https://img.shields.io/badge/-Node.js-000000?style=for-the-badge&logo=node.js&logoColor=DAF1DE"/>
-
+<br>
   <!-- AWS -->
   <img src="https://img.shields.io/badge/-AWS-000000?style=for-the-badge&logo=amazonaws&logoColor=0B2B26"/>
 
