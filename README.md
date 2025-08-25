@@ -101,6 +101,7 @@
     convido-o a dar uma olhada no meu portfólio (link futuro)!
   </i>
 </div>
+<br>
 
 -----
 
