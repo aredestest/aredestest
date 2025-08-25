@@ -40,19 +40,8 @@
   </a>
 
 </div>
-
-<div align="justify">
-  <i>
-    <br>
-    <br>
-    <b>Seja muito bem-vindo</b> :wave:!  
-    Me chamo <code>Gabriel Aredes</code>, tenho 18 anos e sou 
-    <code>estudante</code> de Engenharia de Software (🖥️) na 
-    <a href="https://www.pucminas.br/" target="_blank">PUC Minas</a>.  
-    Constantemente buscando transformar aprendizado em <code>prática</code>, 
-    convido-o a dar uma olhada no meu portfólio (link futuro)!
-  </i>
-</div>
+<br>
+<br>
 
 -----
 
@@ -100,6 +89,20 @@
 
 -----
 
+<div align="justify">
+  <i>
+    <br>
+    <br>
+    <b>Seja muito bem-vindo</b> :wave:!  
+    Me chamo <code>Gabriel Aredes</code>, tenho 18 anos e sou 
+    <code>estudante</code> de Engenharia de Software (🖥️) na 
+    <a href="https://www.pucminas.br/" target="_blank">PUC Minas</a>.  
+    Constantemente buscando transformar aprendizado em <code>prática</code>, 
+    convido-o a dar uma olhada no meu portfólio (link futuro)!
+  </i>
+</div>
+
+-----
 
 <div>
 
